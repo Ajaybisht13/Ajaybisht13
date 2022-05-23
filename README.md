@@ -4,7 +4,7 @@ I'm Ajay Bisht. I am a React Native Developer building scalable applications for
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Prajval-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-react/)  [![Mail Badge](https://img.shields.io/badge/-Prajval-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:im.praj.official@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ajay-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-react/)  [![Mail Badge](https://img.shields.io/badge/-Ajay-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ajaybisht203@gmail.com)
 
 <!-- TODO: Add last video link -->
 
